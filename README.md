@@ -9,7 +9,7 @@ I am a skilled full-stack developer with expertise in creating dynamic, user-foc
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at https://dev-moka.com
 * ✉️  You can contact me at [engamalahmed021@gamil.com](mailto:engamalahmed021@gamil.com)
-* 🚀  I'm currently working on [WebTrust](http://https://github.com/Cooperation-org/web-of-trust)
+* 🚀  I'm currently working on [LinkedTrust]
 * 🧠  I'm learning Nodejs and Firebase
 * 🤝  I'm open to collaborating on API Design and Integration
 
