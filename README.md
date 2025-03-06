@@ -7,7 +7,7 @@ Full Stack Developer
 I am a skilled full-stack developer with expertise in creating dynamic, user-focused web applications and systems. My role involves working across the entire software development lifecycle, from designing intuitive front-end interfaces to building robust and scalable back-end systems. With proficiency in modern technologies, frameworks, and programming languages, I ensure seamless integration between client-side and server-side components. I have a keen eye for design and user experience, combined with a solid foundation in server architecture, databases, and APIs. My work emphasizes performance, security, and scalability, enabling businesses to deliver impactful digital solutions. Passionate about problem-solving, I thrive on turning complex ideas into functional and innovative applications. Collaborating with cross-functional teams and staying updated with the latest industry trends allows me to continuously enhance my skills and deliver exceptional results. Whether it's developing custom web applications, optimizing existing systems, or exploring emerging technologies like Web3, I am committed to creating value through clean, efficient, and reliable code.
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [https://react-portfolio-website-sooty-sigma.vercel.app/](http://https://react-portfolio-website-sooty-sigma.vercel.app/)
+* 🖥️  See my portfolio at https://dev-moka.com
 * ✉️  You can contact me at [engamalahmed021@gamil.com](mailto:engamalahmed021@gamil.com)
 * 🚀  I'm currently working on [WebTrust](http://https://github.com/Cooperation-org/web-of-trust)
 * 🧠  I'm learning Nodejs and Firebase
