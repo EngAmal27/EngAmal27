@@ -1,10 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aml Ahmed (MOka)
 ========================================================================================================================================
 
-Full Stack Developer
+Front-End Developer
 --------------------
+I specialize in building dynamic, user-friendly web interfaces that enhance user experience and engagement. My expertise lies in crafting responsive, high-performance applications using modern front-end technologies, frameworks, and best practices. I focus on clean, efficient code, ensuring seamless interactions and smooth navigation across devices.
 
-I am a skilled full-stack developer with expertise in creating dynamic, user-focused web applications and systems. My role involves working across the entire software development lifecycle, from designing intuitive front-end interfaces to building robust and scalable back-end systems. With proficiency in modern technologies, frameworks, and programming languages, I ensure seamless integration between client-side and server-side components. I have a keen eye for design and user experience, combined with a solid foundation in server architecture, databases, and APIs. My work emphasizes performance, security, and scalability, enabling businesses to deliver impactful digital solutions. Passionate about problem-solving, I thrive on turning complex ideas into functional and innovative applications. Collaborating with cross-functional teams and staying updated with the latest industry trends allows me to continuously enhance my skills and deliver exceptional results. Whether it's developing custom web applications, optimizing existing systems, or exploring emerging technologies like Web3, I am committed to creating value through clean, efficient, and reliable code.
+With a strong eye for design and usability, I bridge the gap between aesthetics and functionality, collaborating with designers and back-end developers to deliver intuitive digital experiences. My work emphasizes performance optimization, accessibility, and maintainability, enabling businesses to create visually appealing and efficient web applications.
+
+Passionate about innovation, I stay updated with the latest industry trends and emerging technologies like Web3, continuously refining my skills to build cutting-edge front-end solutions. Whether it’s developing interactive user interfaces, optimizing existing applications, or integrating with APIs, I am committed to delivering exceptional results.
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at https://dev-moka.com
